@@ -1,13 +1,9 @@
 # InputFormatter
-/*
- ************************************************************
- ************************************************************
+
  CRIADO POR: 	FERNANDO DE LIMA SANTOS
  EMAIL:	 		  FLIMAENG@GMAIL.COM
  DATA:  			15/09/2017
- ************************************************************
- ************************************************************
- * 
+
  * MANUAL DE USO DA BIBLIOTECA
  * 
  * 1- Uso passando uma MASK padrão para formatação dos dados
